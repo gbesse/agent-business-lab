@@ -1,0 +1,10 @@
+{
+  "name": "agent-business-lab",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "bin": { "agent-business-lab": "./src/cli.js" },
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
